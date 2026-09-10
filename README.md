@@ -72,10 +72,9 @@ El proyecto incluye una aplicación interactiva desarrollada con **Streamlit** q
 La aplicación incluye:
 
 - 📊 **Panel principal** con indicadores de generación, demanda y cobertura renovable.
-- 🗺️ Visualización de las condiciones meteorológicas utilizadas por los modelos.
+- 🔬 **Simulador What-if**, que permite modificar variables meteorológicas y analizar cómo cambiarían las estimaciones de generación y cobertura en escenarios hipotéticos.
 - 📈 **Modelos y resultados**, con información sobre el rendimiento predictivo.
 - 💼 **Impacto y alcance**, orientado a interpretar la utilidad de los resultados.
-- 🔬 **Simulador What-if**, que permite modificar variables meteorológicas y analizar cómo cambiarían las estimaciones de generación y cobertura en escenarios hipotéticos.
 
 ---
 
