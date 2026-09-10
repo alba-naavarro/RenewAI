@@ -78,6 +78,14 @@ La aplicación incluye:
 
 ---
 
+### 🌐 Aplicación online
+
+La aplicación RenewAI está disponible públicamente en Streamlit Community Cloud:
+
+👉 **[Acceder a RenewAI](https://renewai.streamlit.app)**
+
+---
+
 ## 📁 Estructura del repositorio
 
 ```text
