@@ -1,8 +1,6 @@
 # 🪴 RenewAI
 ### Análisis y modelización predictiva de la generación solar y eólica en España
 
-RenewAI es un proyecto desarrollado como Trabajo de Fin de Máster del **Máster en Data Science, Big Data & Business Intelligence de la Universidad Complutense de Madrid**.
-
 El proyecto analiza la generación solar y eólica en España y desarrolla modelos de Machine Learning capaces de estimar la generación de ambas tecnologías a partir de información meteorológica e histórica. Los resultados se integran posteriormente con datos de demanda eléctrica para analizar la cobertura solar-eólica y su relación con el precio mayorista de la electricidad.
 
 Como parte final del proyecto se ha desarrollado también una aplicación interactiva en **Streamlit**, que permite explorar los resultados obtenidos y utilizar un simulador What-if para analizar escenarios meteorológicos hipotéticos.
