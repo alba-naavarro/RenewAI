@@ -1,4 +1,4 @@
-# 🌱 RenewAI
+# 🪴 RenewAI
 ### Análisis y modelización predictiva de la generación solar y eólica en España
 
 RenewAI es un proyecto desarrollado como Trabajo de Fin de Máster del **Máster en Data Science, Big Data & Business Intelligence de la Universidad Complutense de Madrid**.
